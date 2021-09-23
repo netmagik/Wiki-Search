@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Wiki-Search/static/css/main.6acaecc5.chunk.css",
+    "main.js": "/Wiki-Search/static/js/main.38551a98.chunk.js",
+    "main.js.map": "/Wiki-Search/static/js/main.38551a98.chunk.js.map",
+    "runtime-main.js": "/Wiki-Search/static/js/runtime-main.2010deb4.js",
+    "runtime-main.js.map": "/Wiki-Search/static/js/runtime-main.2010deb4.js.map",
+    "static/js/2.4fa4a761.chunk.js": "/Wiki-Search/static/js/2.4fa4a761.chunk.js",
+    "static/js/2.4fa4a761.chunk.js.map": "/Wiki-Search/static/js/2.4fa4a761.chunk.js.map",
+    "index.html": "/Wiki-Search/index.html",
+    "static/css/main.6acaecc5.chunk.css.map": "/Wiki-Search/static/css/main.6acaecc5.chunk.css.map",
+    "static/js/2.4fa4a761.chunk.js.LICENSE.txt": "/Wiki-Search/static/js/2.4fa4a761.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2010deb4.js",
+    "static/js/2.4fa4a761.chunk.js",
+    "static/css/main.6acaecc5.chunk.css",
+    "static/js/main.38551a98.chunk.js"
+  ]
+}
